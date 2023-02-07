@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Roboto Mono', monospace;
+    margin: 20px;
+}
+.firstH1{
+    font-size: 40px;
+    line-height: 70px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 150px;
+    
+}
+.firstDiv{
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 80vh;
+}
+.design3D {
+    width: 40vw;
+}

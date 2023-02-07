@@ -1,0 +1,91 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Roboto Mono', monospace;
+    margin: 20px;
+}
+
+.div2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 50px;
+    height: 85vh;
+}
+.div1{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: baseline;
+   margin-top: 20px;
+   font-size: 20px;
+}
+
+.div3{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+}
+.prefil{
+    width: 20vw;
+}
+header{
+    margin-bottom: 50px;
+}
+
+.div4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    width: 95vw;
+
+}.intro{
+    font-size: 40px;
+    line-height: 70px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+.aboutMe{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.evora{
+    
+    width: 40vw;
+}
+
+.goBackAb{
+    text-decoration: none;
+    color: black;
+    margin-left: 150px;
+    font-size: 20px;
+    
+}
+
+
+.galleryDiv1{
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+.galleryDiv2{
+    height: 50vh;
+}
+.galH1{
+    text-align: center;
+}
+.goBackGall{
+    text-decoration: none;
+    margin-right: 1100px;
+    font-size: 20px;
+    color: black;
+}
